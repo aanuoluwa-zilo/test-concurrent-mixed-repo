@@ -1,0 +1,7 @@
+app:
+  name: TestApp7
+  version: 1.7.0
+  features:
+    - feature_7_1
+    - feature_7_2
+    - feature_7_3
