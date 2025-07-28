@@ -1,0 +1,7 @@
+app:
+  name: TestApp4
+  version: 1.4.0
+  features:
+    - feature_4_1
+    - feature_4_2
+    - feature_4_3
