@@ -1,0 +1,7 @@
+app:
+  name: TestApp2
+  version: 1.2.0
+  features:
+    - feature_2_1
+    - feature_2_2
+    - feature_2_3
