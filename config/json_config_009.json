@@ -1,0 +1,11 @@
+{
+  "app": {
+    "name": "TestApp9",
+    "version": "1.9.0",
+    "features": [
+      "feature_9_1",
+      "feature_9_2",
+      "feature_9_3"
+    ]
+  }
+}
